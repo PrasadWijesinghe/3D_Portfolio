@@ -2,11 +2,12 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
+    <div className='h-screen w-screen flex items-center justify-center bg-gray-900 text-white'>
       Welcome to my 3D Portfolio! <br />
       This is a simple 3D portfolio built with React and Three.js. <br />
       You can view my projects and skills in 3D space. <br />
     </div>
+    
   )
 }
 

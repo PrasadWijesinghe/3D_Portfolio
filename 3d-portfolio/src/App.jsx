@@ -6,7 +6,7 @@ const App = () => {
       Welcome to my 3D Portfolio! <br />
       This is a simple 3D portfolio built with React and Three.js. <br />
       You can find the source code on my GitHub. <br />
-      <p>This is a simple </p>
+      
       
       
     
